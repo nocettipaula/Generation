@@ -1,0 +1,16 @@
+insert into produtos 
+(nome, preco, quantidade, tamanho) values ('Saia Preta', '24,00', '5' , 'P' ),
+('Saia Preta', '240,00', '5' , 'M' ),
+('Saia Preta', '240,00', '5' , 'G' ),
+('Saia Preta', '240,00', '5' , 'GG' ),
+('Calça Jeans Preta', '650,00', '5' , 'P' ),
+('Calça Jeans Preta', '650,00', '5' , '42' ),
+('Calça Jeans Preta', '650,00', '5' , '44' ),
+('Calça Jeans Preta', '650,00', '5' , '46' ),
+('Calça Jeans Preta', '650,00', '5' , '48' ),
+('Moleton Preta', '720,00', '5' , 'P' ),
+('Moleton Preta', '720,00', '5' , 'M' ),
+('Moleton Preta',  '720,00', '5' , 'G' ),
+('Moleton Preta', '720,00', '5' , 'GG' ),
+('Camiseta Preta', '189,00', '5' , 'G' ),
+('Camiseta Branca', '189,00', '5', 'M' );
