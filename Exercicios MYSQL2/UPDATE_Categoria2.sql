@@ -1,0 +1,1 @@
+update tb_categoria set date_time = "2020-07-23 08:30:20.000" where id = 2
