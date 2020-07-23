@@ -1,0 +1,1 @@
+select * from tb_personagem where danoHabilidade between 50 and 100;
